@@ -7,7 +7,7 @@ This project consists of Rebrickable database includes data on every LEGO set th
 what bricks they contain, what color the bricks are,and so on). 
 The database link : https://rebrickable.com/downloads/
 
-The project is on Python3, and use Pandas Foundation,with aim of answering the following sections:
+The project is on Python3, and use Pandas Foundation, by using jupyter notebooks,with aim of answering the following sections:
 
 1- Reading Data
 2-Exploring Colors
